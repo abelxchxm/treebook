@@ -3,7 +3,9 @@
 one:
   user_id: MyString
   content: MyText
+  user: abel
 
 two:
   user_id: MyString
   content: MyText
+  user: abel
