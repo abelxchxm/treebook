@@ -3,3 +3,9 @@ abel:
   last_name: "Chavez"
   email: "abchavz@yahoo.com.mx"
   profile_name: "abelchavez"
+
+jim:
+  first_name: "Jim"
+  last_name: "Hoskins"
+  email: "jim@teamtreehouse.com"
+  profile_name: "jimhoskins"

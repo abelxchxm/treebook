@@ -20,6 +20,8 @@ Rails.application.routes.draw do
   # root 'welcome#index'
   root 'statuses#index'
 
+  get '/:id', to: 'profiles#show'
+
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
 

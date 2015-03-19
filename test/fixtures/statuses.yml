@@ -9,3 +9,8 @@ two:
   user_id: MyString
   content: MyText
   user: abel
+
+three:
+  user_id: MyString
+  content: "Hi I'm Jim"
+  user: jim
